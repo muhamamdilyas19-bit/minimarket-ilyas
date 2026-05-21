@@ -1,10 +1,11 @@
 // Daftar produk dengan gambar
 const products = [
-    { id: 1, name: 'AQUA', price: 2000, img: 'img/aqua.jpg' },
-    { id: 2, name: 'BONCABE', price: 1000, img: 'img/boncabe.webp' },
-    { id: 3, name: 'CHOCOPIE', price: 2000, img: 'img/chocopie.jpg' },
-    { id: 4, name: 'MAXICORN', price: 2000, img: 'img/maxicorn.jpg' },
-    { id: 5, name: 'QTELLA', price: 2000, img: 'img/qtella.png' },
+    { id: 1, name: 'BISKUAT', price: 1000, img: 'biskuat.jpg' },
+    { id: 2, name: 'MILKUAT', price: 2000, img: 'milkuat.jpg' },
+    { id: 3, name: 'MILO', price: 2000, img: 'milo.jpg' },
+    { id: 4, name: 'NABATI', price: 2000, img: 'nabati.png' },
+    { id: 5, name: 'SOSRO', price: 3000, img: 'sosro.jpg' },
+    { id: 6, name: 'TICTAC', price: 1000, img: 'tictac.jpg' },
 ];
 
 // keranjang belanja
